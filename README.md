@@ -4,3 +4,12 @@
 
 ![image](https://user-images.githubusercontent.com/85551796/224711655-ec1afdc5-f90c-43dc-b275-3fe51156f2c4.png)
 
+Short explanation files:
+Pictures folder
+    Contains the Buttons used in the Tkinter GUI.
+userdata_ checklist.xlsx
+    This is the userdata that contain the process description, type of process, warning time and deadlines.
+sql_module.py
+    Interaction with the database: create, read and update table.
+tkinter_module.py
+	   Creation of the Graphical User Interface and the logic behind the checklist.
